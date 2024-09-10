@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(77, 113, 124);
+}
+h1{
+    text-align: center;
+    font-size: 42px;
+    color: rgb(255,255,255);
+}
+li{
+    color: white;
+}
+.first{
+    color: purple;
+}
+#cool{
+    color: green;
+}
+.card{
+
+}
+
+/*margin: 0 auto
+this line above centers objects
+
+width or height otherwise image is streched,
+if have to use both use cover
+
+margin is used to create space between objects.
+
+border: 3px solid white;
+this line above creates borders
+
+padding: 30px 20px 20px 20px ;
+Top bottom left right
+
+padding is the space within the element itself.
+
+percentage can be used to take up part or all of the space
+
+object-fit: cover
+
+div is parent of all things inside it. Traits of div will be given to children objects.
+
+
+*/
