@@ -9,11 +9,8 @@ h1{
 li{
     color: white;
 }
-.first{
-    color: purple;
-}
-#cool{
-    color: green;
+p{
+    font-size: 21px;
 }
 .card{
 
